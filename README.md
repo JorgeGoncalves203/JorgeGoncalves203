@@ -1,7 +1,7 @@
 Hi, my name is Jorge Gonçalves!!
 
 - system analysis and development student 💻
-- studying front-end 😁
+- studying front-end and database 😁
 - 19 years
 
 <div align="center">
