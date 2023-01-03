@@ -1,4 +1,4 @@
-Hi, 
+Hi, my name is Jorge Gonçalves!!
 
 - system analysis and development student 💻
 - studying front-end 😁
