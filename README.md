@@ -1,8 +1,8 @@
- Opa, eai Pessoal, sou o JG!!!
+Hi, 
 
-- Estudante de Analise e desenvolvimento de sistemas 💻
-- estudando Front-end 😁
-- Recife/ PE 🚩
+- system analysis and development student 💻
+- studying front-end 😁
+- 19 years
 
 <div align="center">
   <a href="https://github.com/JorgeGoncalves203">
