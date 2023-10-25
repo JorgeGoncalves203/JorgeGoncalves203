@@ -2,7 +2,7 @@
 
 - system analysis and development student 💻
 - studying front-end and database 😁
-- 19 years
+- 20 years
 <div align="center">
   <a href="https://github.com/JorgeGoncalves203">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeGoncalves203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
