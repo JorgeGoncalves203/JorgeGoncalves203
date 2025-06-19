@@ -1,8 +1,8 @@
 ## Hi, my name is Jorge Gonçalves!!
 
-- system analysis and development student 💻
-- studying front-end and database 😁
-- 20 years
+- Formado em ADS
+- IT SUPPORT e entusiasta em resolver broncas kk
+- 22 years
 <div align="center">
   <a href="https://github.com/JorgeGoncalves203">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeGoncalves203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
